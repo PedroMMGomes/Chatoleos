@@ -1,0 +1,15 @@
+# Chatoleos Dependencies
+
+# Web scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Vector database
+chromadb>=0.4.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: For better performance with ChromaDB
+numpy>=1.24.0 
