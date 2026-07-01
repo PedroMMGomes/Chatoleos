@@ -1,3 +1,15 @@
+<h1 align="center">🛢️ Chatoleos — RAG sobre catálogo de produtos</h1>
+<p align="center"><strong>Pipeline RAG (scraping → embeddings → ChromaDB) para responder perguntas sobre produtos a partir do site do fornecedor.</strong></p>
+
+<p align="center">
+  <img alt="lang" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square">
+  <img alt="rag" src="https://img.shields.io/badge/RAG-ChromaDB-412991?style=flat-square">
+  <img alt="embed" src="https://img.shields.io/badge/embeddings-Ollama-22D3EE?style=flat-square">
+  <img alt="scrape" src="https://img.shields.io/badge/scraping-BeautifulSoup-00B564?style=flat-square">
+</p>
+
+---
+
 # Chatoleos
 
 Sistema de chat WhatsApp com LLM e RAG (Retrieval-Augmented Generation) para produtos da Óleos da Terra.
