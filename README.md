@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="readme-hero.png" alt="hero" width="100%">
+</p>
+
 <h1 align="center">🛢️ Chatoleos — RAG sobre catálogo de produtos</h1>
 <p align="center"><strong>Pipeline RAG (scraping → embeddings → ChromaDB) para responder perguntas sobre produtos a partir do site do fornecedor.</strong></p>
 
